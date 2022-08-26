@@ -35,7 +35,7 @@ public void m5(int a, int b, int c, int d) {
 		
 		Class2 obj1 = new Class2();
 		obj1.m4(1,2,3);
-		// System.out.println("This is a new change");
+		System.out.println("This is a new change");
 		
 		
 		
